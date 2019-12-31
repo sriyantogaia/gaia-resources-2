@@ -1,9 +1,12 @@
 Workbook Markdown Template
 =================
 
-Halo : Minor    
-Hifas : 23    
-Exil : TGX
+````
+Items        : 27
+Select-type  : MOST-LEAST
+Select-lead  : Menurut Anda, pilihan mana yang PALING EFEKTIF dan mana yang PALING TIDAK EFEKTIF?
+Max-duration : 90
+````
 
 ## Intro
 
