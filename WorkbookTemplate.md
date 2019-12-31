@@ -22,7 +22,9 @@ Pelayanan pada masyarakat selain beragam juga menjadi semakin kompleks karena se
 
 ---
 
-**Kerja sama tim sangat penting dilakukan dalam lingkungan kerja, karena Anda bisa mempelajari berbagai jenis pengetahuan dan ketrampilan dari orang lain, serta juga dapat meningkatkan kemampuan dan keterampilan diri Anda.** Berdasarkan 4 pilihan tindakan dibawah ini, tindakan apa yang menurut Anda paling tepat/efektif untuk dilakukan dalam rangka mendukung pernyataan diatas, dan tindakan apa yang paling tidak tepat/tidak efektif?
+**Kerja sama tim sangat penting dilakukan dalam lingkungan kerja, karena Anda bisa mempelajari berbagai jenis pengetahuan dan ketrampilan dari orang lain, serta juga dapat meningkatkan kemampuan dan keterampilan diri Anda.**
+
+*Menurut Anda, tindakan manakah yang paling tepat/efektif dan manakah yang paling tidak tepat/tidak efektif?*
 
 1. KOM : Menginterpretasi dan merespon informasi dan pesan secara tetapt guna.
 2. KER : Menghargai masukan dari orang lain dan sebaliknya, apabila dipandang perlu memberikan usulan-usulan bagi mereka.
