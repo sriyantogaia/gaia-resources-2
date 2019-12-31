@@ -5,11 +5,13 @@ Halo : Minor
 Hifas : 23    
 Exil : TGX
 
-***
+## Intro
 
-Clumberize the owner.
+Markdown is not a replacement for HTML, or even close to it. Its syntax is very small, corresponding only to a very small subset of HTML tags. The idea is not to create a syntax that makes it easier to insert HTML tags. In my opinion, HTML tags are already easy to insert. The idea for Markdown is to make it easy to read, write, and edit prose. HTML is a publishing format; Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.
 
-***
+For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+
+## Body
 
 Pelayanan pada masyarakat selain beragam juga menjadi semakin kompleks karena senantiasa berhubungan dengan beragam khalayak yang memiliki keanekaragaman kepentingan dan tujuan. Berdasarkan 4 pilihan tindakan dibawah ini, tindakan apa yang menurut Anda paling tepat/efektif untuk dilakukan dalam rangka mendukung pernyataan diatas, dan tindakan apa yang paling tidak tepat/tidak efektif?
 
@@ -22,10 +24,10 @@ Pelayanan pada masyarakat selain beragam juga menjadi semakin kompleks karena se
 
 Kerja sama tim sangat penting dilakukan dalam lingkungan kerja, karena Anda bisa mempelajari berbagai jenis pengetahuan dan ketrampilan dari orang lain, serta juga dapat meningkatkan kemampuan dan keterampilan diri Anda. Berdasarkan 4 pilihan tindakan dibawah ini, tindakan apa yang menurut Anda paling tepat/efektif untuk dilakukan dalam rangka mendukung pernyataan diatas, dan tindakan apa yang paling tidak tepat/tidak efektif?
 
-1. `KOM`	Menginterpretasi dan merespon informasi dan pesan secara tetapt guna.
-1. `KER`	Menghargai masukan dari orang lain dan sebaliknya, apabila dipandang perlu memberikan usulan-usulan bagi mereka.
-1. `PBA`  Mampu memahami, menerima, peka terhadap perbedaan individu/kelompok yang ada.
-1. `OPH` 	Bekerja dengan teliti dan hati-hati guna meminimalkan kesalahan.
+1. KOM / Menginterpretasi dan merespon informasi dan pesan secara tetapt guna.
+1. KER / Menghargai masukan dari orang lain dan sebaliknya, apabila dipandang perlu memberikan usulan-usulan bagi mereka.
+1. PBA / Mampu memahami, menerima, peka terhadap perbedaan individu/kelompok yang ada.
+1. OPH / Bekerja dengan teliti dan hati-hati guna meminimalkan kesalahan.
 
 ---
 
