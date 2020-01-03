@@ -1,6 +1,6 @@
 # Template Penulisan Data Elemen
 
-Markdown is not a replacement for HTML, or even close to it. Its syntax is very small, corresponding only to a very small subset of HTML tags. The idea is not to create a syntax that makes it easier to insert HTML tags. In my opinion, HTML tags are already easy to insert. The idea for Markdown is to make it easy to read, write, and edit prose. HTML is a publishing format; Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.
+> Markdown is not a replacement for HTML, or even close to it. Its syntax is very small, corresponding only to a very small subset of HTML tags. The idea is not to create a syntax that makes it easier to insert HTML tags. In my opinion, HTML tags are already easy to insert. The idea for Markdown is to make it easy to read, write, and edit prose. HTML is a publishing format; Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.
 
 MESKIPUN DEMIKIAN atau TETAPI, kita dapat menggunakannya sebagai *database* atau repositori elemen behavioral yang akan memberi setidaknya dua keuntungan. *Pertama*, karena Markdown, kita dapat melakukan operasi CRUD tanpa bantuan software apapun selain alat tulis. *Kedua*, ... nanti dicari yang kedua. Untuk menuju ke hal tersebut ada beberapa yang harus dipatuhi supaya dokumen dengan template ini dapat dibaca dan dikelola oleh mesin seperti halnya database mengelola entrinya. Berikut ini adalah yang beberapa itu.
 
