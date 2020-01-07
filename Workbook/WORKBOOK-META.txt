@@ -1,0 +1,43 @@
+WORKBOOK META
+=============
+moduleName
+	- nama formal modul
+moduleTitle
+	- nama yang lebih customer-friendly, lebih menjual
+bookType
+	- simple
+	- simple-teaser
+	- teaser-tail
+	- teaser-article-grouped
+optionsMode
+	- likert
+	- statement
+optionsNums
+	- jumlah Option (pilihan yang ditawarkan) per TestItem
+optionsSelect (bisa angka bisa semantik)
+	- jumlah pilihan yang diperbolehkan
+evidenceType
+	- option (pilihan)
+	- writing (teks)
+	- behavior
+teaserTail
+	- content untuk TeaserTail
+elmRoles
+	- simbol-simbol elemen valid dalam Workbook ini
+elmRole
+	- simbol elemen yang diwakili TestItem, harus valid
+
+
+On HTML Content
+===============
+
+Setiap elemen Workbook dengan tag <Article> berisi satu atau lebih
+content HTML, dan seluruhnya harus berada dalam enclosing tag, tidak
+boleh ada teks yang langsung dibawah <Article>.
+
+Materi gambar dan tabel harus disajikan sebagai bitmap (JPG, PNG) dan 
+harus dalam tag <figure>:
+
+	<figure><img src="tabel.png"/></figure>
+
+Content HTML dalam Workbook.xml tidak boleh mengandung styling.

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+========================
+GAIA BEHAVIORAL ELEMENTS
+========================
+ -->
+<BehavioralElements version="" published="">
+    <Element id="DI01" type="Simple">
+        <Symbol>DI01</Symbol>
+        <Name>Observing</Name>
+        <Definition>DEFINISI: Observing adalah...</Definition>
+    </Element>
+    <Element id="DI02" type="Simple">
+        <Symbol>DI02</Symbol>
+        <Name>Involvement</Name>
+        <Definition>DEFINISI: Involvement adalah...</Definition>
+    </Element>
+    <Element id="DI03" type="Simple">
+        <Symbol>DI03</Symbol>
+        <Name>Inquiry</Name>
+        <Definition>DEFINISI: Inquiry adalah...</Definition>
+    </Element>
+    <Element id="DI04" type="Simple">
+        <Symbol>DI04</Symbol>
+        <Name>Advocacy</Name>
+        <Definition>DEFINISI: Advocacy adalah...</Definition>
+    </Element>
+    <Element id="DI05" type="Simple">
+        <Symbol>DI05</Symbol>
+        <Name>Situation Handling</Name>
+        <Definition>DEFINISI: Situation Handling adalah...</Definition>
+    </Element>
+    <Element id="DI06" type="Composite" memberIds="">
+        <Symbol>DI06</Symbol>
+        <Name>Willingness</Name>
+        <Definition>DEFINISI: Willingness adalah...</Definition>
+    </Element>
+    <Element id="DI07" type="Composite" memberIds="">
+        <Symbol>DI07</Symbol>
+        <Name>Ability</Name>
+        <Definition>DEFINISI: Ability adalah...</Definition>
+    </Element>
+    <Element id="DI08" type="Composite" memberIds="">
+        <Symbol>DI08</Symbol>
+        <Name>Resultante</Name>
+        <Definition>DEFINISI: Resultante adalah...</Definition>
+    </Element>
+    <Element id="AI01" type="Simple">
+        <Symbol>AI01</Symbol>
+        <Name>Identifikasi</Name>
+        <Definition>DEFINISI: Identifikasi adalah...</Definition>
+    </Element>
+    <Element id="AI02" type="Simple">
+        <Symbol>AI02</Symbol>
+        <Name>Using</Name>
+        <Definition>DEFINISI: Using adalah...</Definition>
+    </Element>
+    <Element id="AI03" type="Simple">
+        <Symbol>AI03</Symbol>
+        <Name>Understand</Name>
+        <Definition>DEFINISI: Understand adalah...</Definition>
+    </Element>
+    <Element id="AI04" type="Simple">
+        <Symbol>AI04</Symbol>
+        <Name>Manage</Name>
+        <Definition>DEFINISI: Manage adalah...</Definition>
+    </Element>
+    <Element id="CS01d" type="Simple">
+        <Symbol>CS01d</Symbol>
+        <Name>Problem Solving</Name>
+        <Definition>DEFINISI: Problem Solving adalah...</Definition>
+    </Element>
+    <Element id="CS02" type="Simple">
+        <Symbol>CS02</Symbol>
+        <Name>Cognitive Restructuring</Name>
+        <Definition>DEFINISI: Cognitive Restructuring adalah...</Definition>
+    </Element>
+    <Element id="CS03" type="Simple">
+        <Symbol>CS03</Symbol>
+        <Name>Express Emotion</Name>
+        <Definition>DEFINISI: Express Emotion adalah...</Definition>
+    </Element>
+    <Element id="CS04" type="Simple">
+        <Symbol>CS04</Symbol>
+        <Name>Social Support</Name>
+        <Definition>DEFINISI: Social Support adalah...</Definition>
+    </Element>
+    <Element id="CS05" type="Simple">
+        <Symbol>CS05</Symbol>
+        <Name>Problem Avoidance</Name>
+        <Definition>DEFINISI: Problem Avoidance adalah...</Definition>
+    </Element>
+    <Element id="CS06" type="Simple">
+        <Symbol>CS06</Symbol>
+        <Name>Wishful Thinking</Name>
+        <Definition>DEFINISI: Wishful Thinking adalah...</Definition>
+    </Element>
+    <Element id="CS07" type="Simple">
+        <Symbol>CS07</Symbol>
+        <Name>Self Criticsim</Name>
+        <Definition>DEFINISI: Self Criticsim adalah...</Definition>
+    </Element>
+    <Element id="CS08" type="Simple">
+        <Symbol>CS08</Symbol>
+        <Name>Social Withdrawal</Name>
+        <Definition>DEFINISI: Social Withdrawal adalah...</Definition>
+    </Element>
+    <Element id="CS09" type="Composite" memberIds="">
+        <Symbol>CS09</Symbol>
+        <Name>Problem Focused Engagement</Name>
+        <Definition>DEFINISI: Problem Focused Engagement adalah...</Definition>
+    </Element>
+    <Element id="CS10" type="Composite" memberIds="">
+        <Symbol>CS10</Symbol>
+        <Name>Emotion Focused Engagement</Name>
+        <Definition>DEFINISI: Emotion Focused Engagement adalah...</Definition>
+    </Element>
+    <Element id="CS11" type="Composite" memberIds="">
+        <Symbol>CS11</Symbol>
+        <Name>Problem Focused Disengagement</Name>
+        <Definition>DEFINISI: Problem Focused Disengagement adalah...</Definition>
+    </Element>
+    <Element id="CS12" type="Composite" memberIds="">
+        <Symbol>CS12</Symbol>
+        <Name>Emotion Focused Disengagement</Name>
+        <Definition>DEFINISI: Emotion Focused Disengagement adalah...</Definition>
+    </Element>
+    <Element id="CS13" type="Composite" memberIds="">
+        <Symbol>CS13</Symbol>
+        <Name>Engagement</Name>
+        <Definition>DEFINISI: Engagement adalah...</Definition>
+    </Element>
+    <Element id="CS14" type="Composite" memberIds="">
+        <Symbol>CS14</Symbol>
+        <Name>Disengagement</Name>
+        <Definition>DEFINISI: Disengagement adalah...</Definition>
+    </Element>
+    <Element id="GT01" type="Simple">
+        <Symbol>GT01</Symbol>
+        <Name>Verbal</Name>
+        <Definition>DEFINISI: Verbal adalah...</Definition>
+    </Element>
+    <Element id="GT02" type="Simple">
+        <Symbol>GT02</Symbol>
+        <Name>Numerik</Name>
+        <Definition>DEFINISI: Numerik adalah...</Definition>
+    </Element>
+    <Element id="GT03" type="Simple">
+        <Symbol>GT03</Symbol>
+        <Name>Abstrak</Name>
+        <Definition>DEFINISI: Abstrak adalah...</Definition>
+    </Element>
+    <Element id="GT04" type="Composite" memberIds="">
+        <Symbol>GT04</Symbol>
+        <Name>Rerata</Name>
+        <Definition>DEFINISI: Rerata adalah...</Definition>
+    </Element>
+    <Element id="MT01" type="Simple">
+        <Symbol>MT01</Symbol>
+        <Name>Credibility</Name>
+        <Definition>DEFINISI: Credibility adalah...</Definition>
+    </Element>
+    <Element id="MT02" type="Simple">
+        <Symbol>MT02</Symbol>
+        <Name>Evidence</Name>
+        <Definition>DEFINISI: Evidence adalah...</Definition>
+    </Element>
+    <Element id="MT03" type="Simple">
+        <Symbol>MT03</Symbol>
+        <Name>Explanation</Name>
+        <Definition>DEFINISI: Explanation adalah...</Definition>
+    </Element>
+    <Element id="MT04" type="Simple">
+        <Symbol>MT04</Symbol>
+        <Name>Finding</Name>
+        <Definition>DEFINISI: Finding adalah...</Definition>
+    </Element>
+    <Element id="MT05" type="Simple">
+        <Symbol>MT05</Symbol>
+        <Name>Formulating</Name>
+        <Definition>DEFINISI: Formulating adalah...</Definition>
+    </Element>
+    <Element id="MT06" type="Simple">
+        <Symbol>MT06</Symbol>
+        <Name>Inference</Name>
+        <Definition>DEFINISI: Inference adalah...</Definition>
+    </Element>
+    <Element id="MT07" type="Simple">
+        <Symbol>MT07</Symbol>
+        <Name>Pattern</Name>
+        <Definition>DEFINISI: Pattern adalah...</Definition>
+    </Element>
+    <Element id="MT08" type="Simple">
+        <Symbol>MT08</Symbol>
+        <Name>Premises</Name>
+        <Definition>DEFINISI: Premises adalah...</Definition>
+    </Element>
+    <Element id="MT09" type="Simple">
+        <Symbol>MT09</Symbol>
+        <Name>Search</Name>
+        <Definition>DEFINISI: Search adalah...</Definition>
+    </Element>
+    <Element id="MT10" type="Simple">
+        <Symbol>MT10</Symbol>
+        <Name>Sufficiency</Name>
+        <Definition>DEFINISI: Sufficiency adalah...</Definition>
+    </Element>
+    <Element id="MT11" type="Composite" memberIds="">
+        <Symbol>MT11</Symbol>
+        <Name>Cognitive Potential</Name>
+        <Definition>DEFINISI: Cognitive Potential adalah...</Definition>
+    </Element>
+    <Element id="MT12d" type="Composite" memberIds="">
+        <Symbol>MT12d</Symbol>
+        <Name>Organizing</Name>
+        <Definition>DEFINISI: Organizing adalah...</Definition>
+    </Element>
+    <Element id="MT13" type="Composite" memberIds="">
+        <Symbol>MT13</Symbol>
+        <Name>Analizing</Name>
+        <Definition>DEFINISI: Analizing adalah...</Definition>
+    </Element>
+    <Element id="MT14d" type="Composite" memberIds="">
+        <Symbol>MT14d</Symbol>
+        <Name>Problem Solving</Name>
+        <Definition>DEFINISI: Problem Solving adalah...</Definition>
+    </Element>
+    <Element id="MT15d" type="Composite" memberIds="">
+        <Symbol>MT15d</Symbol>
+        <Name>Deciding</Name>
+        <Definition>DEFINISI: Deciding adalah...</Definition>
+    </Element>
+    <Element id="MT16d" type="Composite" memberIds="">
+        <Symbol>MT16d</Symbol>
+        <Name>Strategic Analysis</Name>
+        <Definition>DEFINISI: Strategic Analysis adalah...</Definition>
+    </Element>
+    <Element id="MT17" type="Composite" memberIds="">
+        <Symbol>MT17</Symbol>
+        <Name>Managerial</Name>
+        <Definition>DEFINISI: Managerial adalah...</Definition>
+    </Element>
+    <Element id="PL01" type="Simple">
+        <Symbol>PL01</Symbol>
+        <Name>Motivasi</Name>
+        <Definition>DEFINISI: Motivasi adalah...</Definition>
+    </Element>
+    <Element id="PL02" type="Simple">
+        <Symbol>PL02</Symbol>
+        <Name>Responsif</Name>
+        <Definition>DEFINISI: Responsif adalah...</Definition>
+    </Element>
+    <Element id="PL03" type="Simple">
+        <Symbol>PL03</Symbol>
+        <Name>Progresif</Name>
+        <Definition>DEFINISI: Progresif adalah...</Definition>
+    </Element>
+    <Element id="PL04" type="Simple">
+        <Symbol>PL04</Symbol>
+        <Name>Situational</Name>
+        <Definition>DEFINISI: Situational adalah...</Definition>
+    </Element>
+    <Element id="PL05" type="Simple">
+        <Symbol>PL05</Symbol>
+        <Name>Fleksibel</Name>
+        <Definition>DEFINISI: Fleksibel adalah...</Definition>
+    </Element>
+    <Element id="PL06" type="Simple">
+        <Symbol>PL06</Symbol>
+        <Name>Afiliatif</Name>
+        <Definition>DEFINISI: Afiliatif adalah...</Definition>
+    </Element>
+    <Element id="PL07" type="Simple">
+        <Symbol>PL07</Symbol>
+        <Name>Instruktif</Name>
+        <Definition>DEFINISI: Instruktif adalah...</Definition>
+    </Element>
+    <Element id="PL08" type="Simple">
+        <Symbol>PL08</Symbol>
+        <Name>Asertif</Name>
+        <Definition>DEFINISI: Asertif adalah...</Definition>
+    </Element>
+    <Element id="PL09" type="Simple">
+        <Symbol>PL09</Symbol>
+        <Name>Stabil</Name>
+        <Definition>DEFINISI: Stabil adalah...</Definition>
+    </Element>
+    <Element id="PL10" type="Simple">
+        <Symbol>PL10</Symbol>
+        <Name>Sistematis</Name>
+        <Definition>DEFINISI: Sistematis adalah...</Definition>
+    </Element>
+    <Element id="PL11" type="Simple">
+        <Symbol>PL11</Symbol>
+        <Name>Konsisten</Name>
+        <Definition>DEFINISI: Konsisten adalah...</Definition>
+    </Element>
+    <Element id="PL12" type="Simple">
+        <Symbol>PL12</Symbol>
+        <Name>Independen</Name>
+        <Definition>DEFINISI: Independen adalah...</Definition>
+    </Element>
+    <Element id="PL13" type="Composite" memberIds="">
+        <Symbol>PL13</Symbol>
+        <Name>Development</Name>
+        <Definition>DEFINISI: Development adalah...</Definition>
+    </Element>
+    <Element id="PL14d" type="Composite" memberIds="">
+        <Symbol>PL14d</Symbol>
+        <Name>Controlling</Name>
+        <Definition>DEFINISI: Controlling adalah...</Definition>
+    </Element>
+    <Element id="PQ01" type="Simple">
+        <Symbol>PQ01</Symbol>
+        <Name>Analytical Thinking</Name>
+        <Definition>DEFINISI: Analytical Thinking adalah...</Definition>
+    </Element>
+    <Element id="PQ02" type="Simple">
+        <Symbol>PQ02</Symbol>
+        <Name>Conceptual Thinking</Name>
+        <Definition>DEFINISI: Conceptual Thinking adalah...</Definition>
+    </Element>
+    <Element id="PQ03" type="Simple">
+        <Symbol>PQ03</Symbol>
+        <Name>Creativity</Name>
+        <Definition>DEFINISI: Creativity adalah...</Definition>
+    </Element>
+    <Element id="PQ04" type="Simple">
+        <Symbol>PQ04</Symbol>
+        <Name>Strategic Thinking</Name>
+        <Definition>DEFINISI: Strategic Thinking adalah...</Definition>
+    </Element>
+    <Element id="PQ05" type="Simple">
+        <Symbol>PQ05</Symbol>
+        <Name>Planning</Name>
+        <Definition>DEFINISI: Planning adalah...</Definition>
+    </Element>
+    <Element id="PQ06d" type="Simple">
+        <Symbol>PQ06d</Symbol>
+        <Name>Organizing</Name>
+        <Definition>DEFINISI: Organizing adalah...</Definition>
+    </Element>
+    <Element id="PQ07d" type="Simple">
+        <Symbol>PQ07d</Symbol>
+        <Name>Controlling</Name>
+        <Definition>DEFINISI: Controlling adalah...</Definition>
+    </Element>
+    <Element id="PQ08" type="Simple">
+        <Symbol>PQ08</Symbol>
+        <Name>Social Awareness</Name>
+        <Definition>DEFINISI: Social Awareness adalah...</Definition>
+    </Element>
+    <Element id="PQ09" type="Simple">
+        <Symbol>PQ09</Symbol>
+        <Name>Collaboration</Name>
+        <Definition>DEFINISI: Collaboration adalah...</Definition>
+    </Element>
+    <Element id="PQ10" type="Simple">
+        <Symbol>PQ10</Symbol>
+        <Name>Networking</Name>
+        <Definition>DEFINISI: Networking adalah...</Definition>
+    </Element>
+    <Element id="PQ11" type="Simple">
+        <Symbol>PQ11</Symbol>
+        <Name>Communication</Name>
+        <Definition>DEFINISI: Communication adalah...</Definition>
+    </Element>
+    <Element id="PQ12" type="Simple">
+        <Symbol>PQ12</Symbol>
+        <Name>Persuasiveness</Name>
+        <Definition>DEFINISI: Persuasiveness adalah...</Definition>
+    </Element>
+    <Element id="PQ13" type="Simple">
+        <Symbol>PQ13</Symbol>
+        <Name>Self-Control</Name>
+        <Definition>DEFINISI: Self-Control adalah...</Definition>
+    </Element>
+    <Element id="PQ14" type="Simple">
+        <Symbol>PQ14</Symbol>
+        <Name>Adaptability</Name>
+        <Definition>DEFINISI: Adaptability adalah...</Definition>
+    </Element>
+    <Element id="PQ15d" type="Simple">
+        <Symbol>PQ15d</Symbol>
+        <Name>Self Development</Name>
+        <Definition>DEFINISI: Self Development adalah...</Definition>
+    </Element>
+    <Element id="PQ16" type="Simple">
+        <Symbol>PQ16</Symbol>
+        <Name>Achievement Drive</Name>
+        <Definition>DEFINISI: Achievement Drive adalah...</Definition>
+    </Element>
+    <Element id="PQ17" type="Composite" memberIds="">
+        <Symbol>PQ17</Symbol>
+        <Name>Manage Reasoning</Name>
+        <Definition>DEFINISI: Manage Reasoning adalah...</Definition>
+    </Element>
+    <Element id="PQ18" type="Composite" memberIds="">
+        <Symbol>PQ18</Symbol>
+        <Name>Manage Task</Name>
+        <Definition>DEFINISI: Manage Task adalah...</Definition>
+    </Element>
+    <Element id="PQ19" type="Composite" memberIds="">
+        <Symbol>PQ19</Symbol>
+        <Name>Manage Relations</Name>
+        <Definition>DEFINISI: Manage Relations adalah...</Definition>
+    </Element>
+    <Element id="PQ20" type="Composite" memberIds="">
+        <Symbol>PQ20</Symbol>
+        <Name>Manage One-self</Name>
+        <Definition>DEFINISI: Manage One-self adalah...</Definition>
+    </Element>
+    <Element id="TR01" type="Simple">
+        <Symbol>TR01</Symbol>
+        <Name>Listing &#38; Domain Analysis</Name>
+        <Definition>DEFINISI: Listing &#38; Domain Analysis adalah...</Definition>
+    </Element>
+    <Element id="TR02" type="Simple">
+        <Symbol>TR02</Symbol>
+        <Name>Originality</Name>
+        <Definition>DEFINISI: Originality adalah...</Definition>
+    </Element>
+    <Element id="TR03" type="Simple">
+        <Symbol>TR03</Symbol>
+        <Name>GOAT Leveling</Name>
+        <Definition>DEFINISI: GOAT Leveling adalah...</Definition>
+    </Element>
+    <Element id="TR04" type="Simple">
+        <Symbol>TR04</Symbol>
+        <Name>Prioritizing</Name>
+        <Definition>DEFINISI: Prioritizing adalah...</Definition>
+    </Element>
+    <Element id="TR05" type="Simple">
+        <Symbol>TR05</Symbol>
+        <Name>Multi-Side Consideration</Name>
+        <Definition>DEFINISI: Multi-Side Consideration adalah...</Definition>
+    </Element>
+    <Element id="TR06" type="Simple">
+        <Symbol>TR06</Symbol>
+        <Name>Prediction Analysis</Name>
+        <Definition>DEFINISI: Prediction Analysis adalah...</Definition>
+    </Element>
+    <Element id="TR07d" type="Simple">
+        <Symbol>TR07d</Symbol>
+        <Name>Strategic Analysis</Name>
+        <Definition>DEFINISI: Strategic Analysis adalah...</Definition>
+    </Element>
+    <Element id="TR08" type="Simple">
+        <Symbol>TR08</Symbol>
+        <Name>Scenario Building</Name>
+        <Definition>DEFINISI: Scenario Building adalah...</Definition>
+    </Element>
+    <Element id="TR09" type="Simple">
+        <Symbol>TR09</Symbol>
+        <Name>Strategic Response</Name>
+        <Definition>DEFINISI: Strategic Response adalah...</Definition>
+    </Element>
+    <Element id="TR10" type="Composite" memberIds="">
+        <Symbol>TR10</Symbol>
+        <Name>Analyzing</Name>
+        <Definition>DEFINISI: Analyzing adalah...</Definition>
+    </Element>
+    <Element id="TR11d" type="Composite" memberIds="">
+        <Symbol>TR11d</Symbol>
+        <Name>Organizing</Name>
+        <Definition>DEFINISI: Organizing adalah...</Definition>
+    </Element>
+    <Element id="TR12d" type="Composite" memberIds="">
+        <Symbol>TR12d</Symbol>
+        <Name>Deciding</Name>
+        <Definition>DEFINISI: Deciding adalah...</Definition>
+    </Element>
+    <Element id="TR13" type="Composite" memberIds="">
+        <Symbol>TR13</Symbol>
+        <Name>Forecasting</Name>
+        <Definition>DEFINISI: Forecasting adalah...</Definition>
+    </Element>
+    <Element id="TR14d" type="Composite" memberIds="">
+        <Symbol>TR14d</Symbol>
+        <Name>Strategic Analysis</Name>
+        <Definition>DEFINISI: Strategic Analysis adalah...</Definition>
+    </Element>
+    <Element id="IN01" type="Simple">
+        <Symbol>IN01</Symbol>
+        <Name>KPI Setting</Name>
+        <Definition>DEFINISI: KPI Setting adalah...</Definition>
+    </Element>
+    <Element id="IN02" type="Simple">
+        <Symbol>IN02</Symbol>
+        <Name>GOAT Setting</Name>
+        <Definition>DEFINISI: GOAT Setting adalah...</Definition>
+    </Element>
+    <Element id="IN03" type="Simple">
+        <Symbol>IN03</Symbol>
+        <Name>Control Management</Name>
+        <Definition>DEFINISI: Control Management adalah...</Definition>
+    </Element>
+    <Element id="IN04" type="Simple">
+        <Symbol>IN04</Symbol>
+        <Name>Gap Analysis</Name>
+        <Definition>DEFINISI: Gap Analysis adalah...</Definition>
+    </Element>
+    <Element id="IN05" type="Simple">
+        <Symbol>IN05</Symbol>
+        <Name>Trouble Shooting Management</Name>
+        <Definition>DEFINISI: Trouble Shooting Management adalah...</Definition>
+    </Element>
+    <Element id="IN06" type="Simple">
+        <Symbol>IN06</Symbol>
+        <Name>Coping with Change</Name>
+        <Definition>DEFINISI: Coping with Change adalah...</Definition>
+    </Element>
+    <Element id="IN07" type="Simple">
+        <Symbol>IN07</Symbol>
+        <Name>Coping with Assurance &#38; Compliance</Name>
+        <Definition>DEFINISI: Coping with Assurance &#38; Compliance adalah...</Definition>
+    </Element>
+    <Element id="IN08d" type="Simple">
+        <Symbol>IN08d</Symbol>
+        <Name>Self Development</Name>
+        <Definition>DEFINISI: Self Development adalah...</Definition>
+    </Element>
+    <Element id="IN09" type="Simple">
+        <Symbol>IN09</Symbol>
+        <Name>People Development</Name>
+        <Definition>DEFINISI: People Development adalah...</Definition>
+    </Element>
+    <Element id="IN10" type="Simple">
+        <Symbol>IN10</Symbol>
+        <Name>Customer Service</Name>
+        <Definition>DEFINISI: Customer Service adalah...</Definition>
+    </Element>
+    <Element id="IN11" type="Simple">
+        <Symbol>IN11</Symbol>
+        <Name>Mapping Awareness</Name>
+        <Definition>DEFINISI: Mapping Awareness adalah...</Definition>
+    </Element>
+    <Element id="IN12" type="Simple">
+        <Symbol>IN12</Symbol>
+        <Name>Attachment</Name>
+        <Definition>DEFINISI: Attachment adalah...</Definition>
+    </Element>
+    <Element id="IN13" type="Composite" memberIds="">
+        <Symbol>IN13</Symbol>
+        <Name>Setting</Name>
+        <Definition>DEFINISI: Setting adalah...</Definition>
+    </Element>
+    <Element id="IN14" type="Composite" memberIds="">
+        <Symbol>IN14</Symbol>
+        <Name>Fulfilling</Name>
+        <Definition>DEFINISI: Fulfilling adalah...</Definition>
+    </Element>
+    <Element id="IN15" type="Composite" memberIds="">
+        <Symbol>IN15</Symbol>
+        <Name>Coping</Name>
+        <Definition>DEFINISI: Coping adalah...</Definition>
+    </Element>
+    <Element id="IN16" type="Composite" memberIds="">
+        <Symbol>IN16</Symbol>
+        <Name>Developing</Name>
+        <Definition>DEFINISI: Developing adalah...</Definition>
+    </Element>
+    <Element id="IN17" type="Composite" memberIds="">
+        <Symbol>IN17</Symbol>
+        <Name>Serving</Name>
+        <Definition>DEFINISI: Serving adalah...</Definition>
+    </Element>
+    <Element id="IN18" type="Composite" memberIds="">
+        <Symbol>IN18</Symbol>
+        <Name>Socializing</Name>
+        <Definition>DEFINISI: Socializing adalah...</Definition>
+    </Element>
+    <Element id="PS01" type="Simple">
+        <Symbol>PS01</Symbol>
+        <Name>Trust</Name>
+        <Definition>DEFINISI: Trust adalah...</Definition>
+    </Element>
+    <Element id="PS02" type="Simple">
+        <Symbol>PS02</Symbol>
+        <Name>Morality</Name>
+        <Definition>DEFINISI: Morality adalah...</Definition>
+    </Element>
+    <Element id="PS03" type="Simple">
+        <Symbol>PS03</Symbol>
+        <Name>Altruism</Name>
+        <Definition>DEFINISI: Altruism adalah...</Definition>
+    </Element>
+    <Element id="PS04" type="Simple">
+        <Symbol>PS04</Symbol>
+        <Name>Cooperation</Name>
+        <Definition>DEFINISI: Cooperation adalah...</Definition>
+    </Element>
+    <Element id="PS05" type="Simple">
+        <Symbol>PS05</Symbol>
+        <Name>Modesty</Name>
+        <Definition>DEFINISI: Modesty adalah...</Definition>
+    </Element>
+    <Element id="PS06" type="Simple">
+        <Symbol>PS06</Symbol>
+        <Name>Sympathy</Name>
+        <Definition>DEFINISI: Sympathy adalah...</Definition>
+    </Element>
+    <Element id="PS07" type="Simple">
+        <Symbol>PS07</Symbol>
+        <Name>Self-Efficacy</Name>
+        <Definition>DEFINISI: Self-Efficacy adalah...</Definition>
+    </Element>
+    <Element id="PS08" type="Simple">
+        <Symbol>PS08</Symbol>
+        <Name>Orderliness</Name>
+        <Definition>DEFINISI: Orderliness adalah...</Definition>
+    </Element>
+    <Element id="PS09" type="Simple">
+        <Symbol>PS09</Symbol>
+        <Name>Dutifulness</Name>
+        <Definition>DEFINISI: Dutifulness adalah...</Definition>
+    </Element>
+    <Element id="PS10" type="Simple">
+        <Symbol>PS10</Symbol>
+        <Name>Achievement-Striving</Name>
+        <Definition>DEFINISI: Achievement-Striving adalah...</Definition>
+    </Element>
+    <Element id="PS11" type="Simple">
+        <Symbol>PS11</Symbol>
+        <Name>Self-Discipline</Name>
+        <Definition>DEFINISI: Self-Discipline adalah...</Definition>
+    </Element>
+    <Element id="PS12" type="Simple">
+        <Symbol>PS12</Symbol>
+        <Name>Cautiousness</Name>
+        <Definition>DEFINISI: Cautiousness adalah...</Definition>
+    </Element>
+    <Element id="PS13" type="Simple">
+        <Symbol>PS13</Symbol>
+        <Name>Friendliness</Name>
+        <Definition>DEFINISI: Friendliness adalah...</Definition>
+    </Element>
+    <Element id="PS14" type="Simple">
+        <Symbol>PS14</Symbol>
+        <Name>Gregariousness</Name>
+        <Definition>DEFINISI: Gregariousness adalah...</Definition>
+    </Element>
+    <Element id="PS15" type="Simple">
+        <Symbol>PS15</Symbol>
+        <Name>Assertiveness</Name>
+        <Definition>DEFINISI: Assertiveness adalah...</Definition>
+    </Element>
+    <Element id="PS16" type="Simple">
+        <Symbol>PS16</Symbol>
+        <Name>Activity Level</Name>
+        <Definition>DEFINISI: Activity Level adalah...</Definition>
+    </Element>
+    <Element id="PS17" type="Simple">
+        <Symbol>PS17</Symbol>
+        <Name>Excitement-Seeking</Name>
+        <Definition>DEFINISI: Excitement-Seeking adalah...</Definition>
+    </Element>
+    <Element id="PS18" type="Simple">
+        <Symbol>PS18</Symbol>
+        <Name>Cheerfulness</Name>
+        <Definition>DEFINISI: Cheerfulness adalah...</Definition>
+    </Element>
+    <Element id="PS19" type="Simple">
+        <Symbol>PS19</Symbol>
+        <Name>Anxiety</Name>
+        <Definition>DEFINISI: Anxiety adalah...</Definition>
+    </Element>
+    <Element id="PS20" type="Simple">
+        <Symbol>PS20</Symbol>
+        <Name>Anger</Name>
+        <Definition>DEFINISI: Anger adalah...</Definition>
+    </Element>
+    <Element id="PS21" type="Simple">
+        <Symbol>PS21</Symbol>
+        <Name>Depression</Name>
+        <Definition>DEFINISI: Depression adalah...</Definition>
+    </Element>
+    <Element id="PS22" type="Simple">
+        <Symbol>PS22</Symbol>
+        <Name>Self-Consciousness</Name>
+        <Definition>DEFINISI: Self-Consciousness adalah...</Definition>
+    </Element>
+    <Element id="PS23" type="Simple">
+        <Symbol>PS23</Symbol>
+        <Name>Immoderation</Name>
+        <Definition>DEFINISI: Immoderation adalah...</Definition>
+    </Element>
+    <Element id="PS24" type="Simple">
+        <Symbol>PS24</Symbol>
+        <Name>Vulnerability</Name>
+        <Definition>DEFINISI: Vulnerability adalah...</Definition>
+    </Element>
+    <Element id="PS25" type="Simple">
+        <Symbol>PS25</Symbol>
+        <Name>Imagination</Name>
+        <Definition>DEFINISI: Imagination adalah...</Definition>
+    </Element>
+    <Element id="PS26" type="Simple">
+        <Symbol>PS26</Symbol>
+        <Name>Artistic Interests</Name>
+        <Definition>DEFINISI: Artistic Interests adalah...</Definition>
+    </Element>
+    <Element id="PS27" type="Simple">
+        <Symbol>PS27</Symbol>
+        <Name>Emotionality</Name>
+        <Definition>DEFINISI: Emotionality adalah...</Definition>
+    </Element>
+    <Element id="PS28" type="Simple">
+        <Symbol>PS28</Symbol>
+        <Name>Adventurousness</Name>
+        <Definition>DEFINISI: Adventurousness adalah...</Definition>
+    </Element>
+    <Element id="PS29" type="Simple">
+        <Symbol>PS29</Symbol>
+        <Name>Intellect</Name>
+        <Definition>DEFINISI: Intellect adalah...</Definition>
+    </Element>
+    <Element id="PS30" type="Simple">
+        <Symbol>PS30</Symbol>
+        <Name>Liberalism</Name>
+        <Definition>DEFINISI: Liberalism adalah...</Definition>
+    </Element>
+    <Element id="PS31" type="Composite" memberIds="">
+        <Symbol>PS31</Symbol>
+        <Name>Agreeableness</Name>
+        <Definition>DEFINISI: Agreeableness adalah...</Definition>
+    </Element>
+    <Element id="PS32" type="Composite" memberIds="">
+        <Symbol>PS32</Symbol>
+        <Name>Conscientiousness</Name>
+        <Definition>DEFINISI: Conscientiousness adalah...</Definition>
+    </Element>
+    <Element id="PS33" type="Composite" memberIds="">
+        <Symbol>PS33</Symbol>
+        <Name>Extraversion</Name>
+        <Definition>DEFINISI: Extraversion adalah...</Definition>
+    </Element>
+    <Element id="PS34" type="Composite" memberIds="">
+        <Symbol>PS34</Symbol>
+        <Name>Neurotism</Name>
+        <Definition>DEFINISI: Neurotism adalah...</Definition>
+    </Element>
+    <Element id="PS35" type="Composite" memberIds="">
+        <Symbol>PS35</Symbol>
+        <Name>Openness</Name>
+        <Definition>DEFINISI: Openness adalah...</Definition>
+    </Element>
+    <Element id="SX01" type="Simple">
+        <Symbol>SX01</Symbol>
+        <Name>Integritas</Name>
+        <Definition>DEFINISI: Integritas adalah...</Definition>
+    </Element>
+    <Element id="SX02" type="Simple">
+        <Symbol>SX02</Symbol>
+        <Name>Kerjasama</Name>
+        <Definition>DEFINISI: Kerjasama adalah...</Definition>
+    </Element>
+    <Element id="SX03" type="Simple">
+        <Symbol>SX03</Symbol>
+        <Name>Komunikasi</Name>
+        <Definition>DEFINISI: Komunikasi adalah...</Definition>
+    </Element>
+    <Element id="SX04" type="Simple">
+        <Symbol>SX04</Symbol>
+        <Name>Orientasi Pada Hasil </Name>
+        <Definition>DEFINISI: Orientasi Pada Hasil  adalah...</Definition>
+    </Element>
+    <Element id="SX05" type="Simple">
+        <Symbol>SX05</Symbol>
+        <Name>Pelayanan Publik</Name>
+        <Definition>DEFINISI: Pelayanan Publik adalah...</Definition>
+    </Element>
+    <Element id="SX06" type="Simple">
+        <Symbol>SX06</Symbol>
+        <Name>Pengembangan Diri &#38; Orang Lain</Name>
+        <Definition>DEFINISI: Pengembangan Diri &#38; Orang Lain adalah...</Definition>
+    </Element>
+    <Element id="SX07" type="Simple">
+        <Symbol>SX07</Symbol>
+        <Name>Mengelola Perubahan</Name>
+        <Definition>DEFINISI: Mengelola Perubahan adalah...</Definition>
+    </Element>
+    <Element id="SX08" type="Simple">
+        <Symbol>SX08</Symbol>
+        <Name>Pengambilan Keputusan</Name>
+        <Definition>DEFINISI: Pengambilan Keputusan adalah...</Definition>
+    </Element>
+    <Element id="SX09" type="Simple">
+        <Symbol>SX09</Symbol>
+        <Name>Perekat Bangsa</Name>
+        <Definition>DEFINISI: Perekat Bangsa adalah...</Definition>
+    </Element>
+</BehavioralElements>
