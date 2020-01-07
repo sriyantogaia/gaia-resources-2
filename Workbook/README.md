@@ -7,7 +7,7 @@ Tabel yang termuat di file [`modules-meta.csv`](./modules-meta.csv) menunjukkan 
 
 Format XML adalah format formal penulisan modul yang akan diakomodasi *dalam* aplikasi yang saat ini sedang dikembangkan. Walupun demikian, untuk pengembangan bisa saja dipakai format Markdown, atau Markdown dengan dengan kustomisasi, dan apabila sudah final akan dikonversi menjadi format formal yaitu XML.
 
-*Tugas saat ini adalah mengkritisi draft ini untuk menemukan konstruk yang baku, tetapi tetap fleksibel, untuk setiap jenis modul atau test*. Setelah konstruk baku dianggap final selanjutnya akan dibuat `XMLSchema` yang akan berfungsi sebagai 1) validator bagi setiap dokumen WorkBook, dan 2) platform pengembangan modul.
+*Tugas saat ini adalah mengkritisi draft ini untuk menemukan konstruk yang baku, tetapi tetap fleksibel, untuk setiap jenis modul atau test*. Setelah konstruk baku dianggap final selanjutnya akan dibuat `XMLSchema` yang akan berfungsi sebagai 1) validator bagi setiap dokumen WorkBook, dan 2) platform pengembangan modul. File [`workbook.rng`](./workbook.rng) adalah contoh `XML Schema` untuk WorkBook yang dibuat dalam format **Relax NG**.
 
 ### Materi gambar, tabel dsb
 
