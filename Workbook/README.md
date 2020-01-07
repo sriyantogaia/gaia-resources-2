@@ -12,3 +12,7 @@ Format XML adalah format formal penulisan modul yang akan diakomodasi *dalam* ap
 ### Materi gambar, tabel dsb
 
 Seluruh materi WorkBook yang berupa gambar, tabel, diagram, dsb. harus disediakan dalam format bitmap (PNG atau JPG) untuk menjamin materi tersebut dapat dilihat dalam visual yang seragam apa pun browsernya dan settingan browsernya. Ini juga untuk menghindari terjadinya *accidental edits*.
+
+### Dependensi
+
+Penyelesaian DRAFT ini bergantung antarab lain pada finalisasi Element.
