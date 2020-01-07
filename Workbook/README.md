@@ -1,7 +1,7 @@
 Gaia Behavioral WorkBook
 ========================
 
-Bagian ini berisi DRAFT format data WorkBook untuk setiap jenis (modul) tes behavioral. Walaupun setiap modul (SJT, CSI, dsb) memiliki ciri dan kontent yang berbeda, sebenarnya, selain FGD dan Wawancara, mereka memiliki konstruk yang kurang lebih sama atau mirip. Adanya kesamaan/kemiripan konstruk tersebut memungkinkan dibuatnya sebuah model dokumen yang dapat dipakai oleh hampir seluruh modul, dan dengan demikian memudahkan untuk dilakukan validasi dan pengembangan.
+Bagian ini berisi DRAFT format data WorkBook untuk setiap jenis modul/tes behavioral. Walaupun setiap modul (SJT, CSI, dsb) memiliki ciri dan kontent yang berbeda, sebenarnya, selain FGD dan Wawancara, mereka memiliki konstruk yang kurang lebih sama atau mirip. Adanya kesamaan/kemiripan konstruk tersebut memungkinkan dibuatnya sebuah model dokumen yang dapat dipakai oleh hampir seluruh modul, dan dengan demikian memudahkan untuk dilakukan validasi dan pengembangan.
 
 Tabel yang termuat di file [`modules-meta.csv`](./modules-meta.csv) menunjukkan sebagian konstruk dari seluruh modul yang ada di Gaia. Modul yang kolom WorkBook-nya bertanda **ok**, sebagian kontentnya sudah dibukukan (sekali lagi, masih DRAFT) dan dapat dilacak di folder [`xml`](./xml/).
 
