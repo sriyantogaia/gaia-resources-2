@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element name="Workbook" xmlns="http://relaxng.org/ns/structure/1.0">
+    <attribute name="id"/>
+    
+    <element name="META">
+        <interleave>
+            <element name="moduleName"><attribute name="value"/></element>
+            <element name="moduleId"><attribute name="value"/></element>
+            <element name="moduleTitle"><attribute name="value"/></element>
+            <element name="moduleVersion"><attribute name="value"/></element>
+            <element name="workbookType"><attribute name="value"/></element>
+            <element name="testItems"><attribute name="value"/></element>
+            <element name="optionsMode"><attribute name="value"/></element>
+            <element name="optionsNums"><attribute name="value"/></element>
+            <element name="optionsSelect"><attribute name="value"/></element>
+            <element name="evidenceType"><attribute name="value"/></element>
+            <element name="releaseDate"><attribute name="value"/></element>
+            <optional>
+                <element name="teaserTail"><attribute name="value"/></element>
+            </optional>
+            <element name="elmRoles"><attribute name="value"/></element>
+        </interleave>
+        
+        <optional>
+            <element name="likert">
+                <oneOrMore>
+                    <element name="Option"><attribute name="seq"/><text/></element>
+                </oneOrMore>
+            </element>
+        </optional>
+    </element>
+    
+    <element name="BookIntro">
+        <text/>
+    </element>
+    
+    <element name="BookBody">
+        <oneOrMore>
+            <element name="Section">
+                <optional>
+                    <element name="Article">
+                        <text/>
+                    </element>
+                </optional>
+                <oneOrMore>
+                    <element name="TestItem">
+                        <optional>
+                            <attribute name="elmRole"/>
+                        </optional>
+                        <element name="Teaser">
+                            <optional>
+                                <attribute name="elmRole"/>
+                            </optional>
+                            <text/>
+                        </element>
+                        <element name="Select">
+                            <attribute name="type"/>
+                        </element>
+                    </element>
+                </oneOrMore>
+            </element>
+        </oneOrMore>
+    </element>
+
+    <element name="Epilog">
+        <interleave>
+            <text/>
+            <zeroOrMore>
+                <element name="strong">
+                    <text/>
+                </element>
+            </zeroOrMore>
+        </interleave>
+    </element>
+
+</element>
+
