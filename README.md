@@ -7,4 +7,4 @@ Kumpulan material Gaia Labs
 - [DRAFT Repository dalam format XML](./Elements/GB-Elements-raw.xml)
 - [WorkBook META](./Workbook/WORKBOOK-META.txt)
 - [DRAFT WorkBook SJT-ASN Markdown](./Workbook/SJT-ASN-Default.md)
-- [Kumpulan DRAFT WorkBook XML](./Workbook/)
+- [Kumpulan DRAFT WorkBook XML](./Workbook/xml/)
