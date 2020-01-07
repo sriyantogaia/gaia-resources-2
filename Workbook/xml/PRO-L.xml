@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook id="PRO-L-910013c9B1009">
+    <META>
+        <moduleId value="PRO-L-910013c9B1009"/>
+        <moduleName value="PRO-Leadership Default Module"/>
+        <moduleTitle value=""/>
+        <moduleVersion value=""/>
+        <bookType value="simple"/>
+        <testItems value="60"/>
+        <optionsMode value="statement"/>
+        <optionsNums value="2"/>
+        <optionsSelect value="1"/><!-- Semantik: single -->
+        <evidenceType value="option"/>
+        <releaseDate value="2020-01-19 15:21:52 WIB"/>
+        <teaserTail value=""/>
+        <elmRoles value="AFIL, ASER, BEBA, DIRE, DISI, EKSP, FLEK, FOKU, INDE, KEPA, KONS, MEND, MENE, MENG, NORM, PERU, RASI, RESI, RESP, STAB, TERL, VARI"/>
+    </META>
+    <BookIntro>
+        <!-- HTML Contents -->
+    </BookIntro>
+    <BookBody>
+        <Section>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="DIRE">Mengatur dan mengawasi secara langsung pekerjaan bawahan.</Option>
+                    <Option elmRole="MEND">Mendorong dan menyemangati bawahan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="FOKU">Mengelola, mengatur, mengawasi pekerjaan tanpa harus terlibat langsung.</Option>
+                    <Option elmRole="TERL">Lebih suka terlibat dan terjun langsung dengan pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RESI">Sering melakukan tindakan kontroversial dan terobosan baru.</Option>
+                    <Option elmRole="KEPA">Lebih suka mengkonsolidasi dan mengamankan berbagai hal yang telah dicapai.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RASI">Bekerja mendahulukan fakta, analisa, dan logika.</Option>
+                    <Option elmRole="EKSP">Bekerja mengutamakan imajinasi, inspirasi dan kreatifitas.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="KONS">Menyelesaikan satu bagian sampai tuntas, baru melangkah ke bagian selanjutnya.</Option>
+                    <Option elmRole="FLEK">Demi ritme kerja, lanjut ke langkah berikutnya, dan tetap menuntaskan yang sebelumnya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Senang mengerjakan tugas se-mandiri mungkin.</Option>
+                    <Option elmRole="AFIL">Bekerja dan menyelesaikan tugas secara tim/kerja kelompok.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MEND">Membina kolaborasi yang produktif.</Option>
+                    <Option elmRole="DIRE">Memobilisasi tim secara langsung.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ASER">Lugas mengingatkan ketika semangat kerja bawahan menurun.</Option>
+                    <Option elmRole="RESP">Menurunkan irama kerja ketika kinerja bawahan menurun.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PERU">Senang dengan kondisi kerja yang penuh variasi dan gejolak.</Option>
+                    <Option elmRole="STAB">Memilih situasi kerja yang tidak variatif dan rutin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="DISI">Mengandalkan prinsip tertib dan taat azas.</Option>
+                    <Option elmRole="BEBA">Lebih senang fleksibel dan bereksperimen.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="KONS">Pantang menyerah dalam berdebat.</Option>
+                    <Option elmRole="FLEK">Menyudahi perdebatan, ketika jauh hari, sadar tidak mungkin menang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Membuat kesimpulan dan keputusan secara mandiri.</Option>
+                    <Option elmRole="AFIL">Mengambil keputusan setelah berbagi ide dan gagasan dengan orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="DIRE">Mengandalkan kemampuan teknis dan kewenangan.</Option>
+                    <Option elmRole="MEND">Mengandalkan motivasi dan apresiasi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ASER">Mengutamakan kesetaraan tugas &amp; kemampuan.</Option>
+                    <Option elmRole="RESP">Mementingkan keselarasan tugas dengan keunikan karakter &amp; talenta.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PERU">Memilih pendekatan yang non-konvensional dan fleksibel.</Option>
+                    <Option elmRole="STAB">Memakai cara dan metode yang sudah terbukti kehandalannya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="EKSP">Mendorong munculnya inisiatif dan eksperimen dalam bekerja.</Option>
+                    <Option elmRole="RASI">Mengutamakan rencana, jadwal dan prosedur yang jelas.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="KONS">Konsisten dengan prinsip, standar dan nilai profesional.</Option>
+                    <Option elmRole="FLEK">Luwes, mengalir dan beradaptasi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Senang lingkungan yang tenang untuk mengolah ide dan gagasan.</Option>
+                    <Option elmRole="AFIL">Menikmati situasi interaktif, saling mencetuskan ide, gagasan dan rencana.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MEND">Senang dengan pendapat, ide dan gagasan baru dalam bekerja.</Option>
+                    <Option elmRole="DIRE">Taat pada rencana, standar, prosedur dan target kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ASER">Tegas menghadapi pertentangan &amp; perbedaan.</Option>
+                    <Option elmRole="RESP">Toleran dan penuh pertimbangan menghadapi pertentangan &amp; perbedaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RESI">Menganggap tantangan nomer satu, dan keberhasilan adalah nomer dua.</Option>
+                    <Option elmRole="KEPA">Memilih pekerjaan yang tidak terlalu beresiko, tapi lebih pasti keberhasilannya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RASI">Mendahulukan logika baru perasaan.</Option>
+                    <Option elmRole="EKSP">Mendahulukan perasaan baru logika.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="KONS">Konsisten, teguh dan keras hati.</Option>
+                    <Option elmRole="FLEK">Fleksibel, variatif, dan adaptif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Yakin dengan penilaian dan pertimbangan saya.</Option>
+                    <Option elmRole="AFIL">Memerlukan umpan balik, dorongan, dan konsultasi dengan orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MEND">Menghargai ide, gagasan dan kontribusi bawahan.</Option>
+                    <Option elmRole="DIRE">Menunjukan kemampuan/ketrampilan pribadi, untuk contoh bagi yang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="TERL">Mendorong hubungan yang akrab, terbuka dan informal.</Option>
+                    <Option elmRole="FOKU">Mempertahankan hubungan non-personal dan menjaga jarak.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RESI">Sering mengambil tindakan yang tidak populer dan tidak biasa.</Option>
+                    <Option elmRole="KEPA">Lebih sering bertindak hati-hati, penuh perhitungan dan &#39;aman&#39;.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RASI">Merencanakan &amp; mengawasi secara sistematis dan menyeluruh.</Option>
+                    <Option elmRole="EKSP">Langsung terlibat sebuah pekerjaan dan merespon apa yang terjadi di lapangan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NORM">Mengutamakan profesionalitas dan hati nurani.</Option>
+                    <Option elmRole="VARI">Menerima bahwa kadang keberhasilan nomer satu, cara tidak penting.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AFIL">Langsung terlibat dan menikmati atmosfir kerja yang hiruk pikuk dan kolaboratif.</Option>
+                    <Option elmRole="INDE">Tidak buru-buru terlibat, tunggu sampai saya siap dengan segala resikonya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MENE">Senang membuat orang jadi percaya diri dengan gagasan dan kemampuan mereka.</Option>
+                    <Option elmRole="MENG">Senang membuat orang merasa aman-terkendali di bawah pimpinan saya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="TERL">Melakukan hubungan yang akrab dan hangat dengan bawahan.</Option>
+                    <Option elmRole="FOKU">Mengambil jarak, sehingga bisa tegas &amp; lugas dengan mereka.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="STAB">Dianggap sebagai pemimpin yang kalem, bertanggung jawab, dan mengayomi.</Option>
+                    <Option elmRole="PERU">Dianggap sebagai pemimpin yang dinamis dan suka pekerjaan yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="EKSP">Sering ber-eksperimen dengan ide dan teori baru.</Option>
+                    <Option elmRole="RASI">Mengutamakan ke-praktis-an, logis, dan aplikatif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="KONS">Responsif dan tepat waktu.</Option>
+                    <Option elmRole="FLEK">Luwes terhadap waktu dan cara kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Memakai analisa logika, non-personal dan menjaga jarak dalam bernegosiasi.</Option>
+                    <Option elmRole="AFIL">Mengamati reaksi dan emosi pihak lain, lalu melakukan pendekatan yang sesuai.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MENE">Memimpin dengan luwes, suportif, dan penuh pengertian.</Option>
+                    <Option elmRole="MENG">Mengandalkan ketaatan pada aturan, kendali dan wewenang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ASER">Menyukai kondisi yang menantang &amp; beresiko tinggi.</Option>
+                    <Option elmRole="RESP">Memilih kondisi yang bisa di-kalkulasi resikonya terlebih dahulu.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RESI">Memilih pekerjaan yang menantang dan beresiko tinggi.</Option>
+                    <Option elmRole="KEPA">Memilih terlibat dengan pekerjaan yang bernuansa &#39;hasil kerja tim&#39;.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="BEBA">Memberi orang kesempatan untuk belajar dari kesalahan sendiri.</Option>
+                    <Option elmRole="DISI">Membekali orang dengan sasaran, tujuan, dan batas kewenangan yang jelas.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="VARI">Sering iseng melakukan hal-hal yang tidak terduga.</Option>
+                    <Option elmRole="NORM">Jarang melakukan hal yang tidak terduga, tanpa alasan yang rasional.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AFIL">Percaya penuh kepada kemampuan orang yang saya beri tugas.</Option>
+                    <Option elmRole="INDE">Harus merinci semua tugas termasuk beragam kemungkinan yang bisa terjadi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MENE">Tenang menghadapi situasi kegagalan, dan mengeksplorasi penyebabnya.</Option>
+                    <Option elmRole="MENG">Tegas menyatakan pada semuanya, konsekuensi &amp; akibat sebuah kegagalan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="TERL">Senang membuat bawahan berkembang, sebagai individu maupun tim kerja.</Option>
+                    <Option elmRole="FOKU">Senang kerja yang efisien dan pencapaian target yang impresif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="STAB">Senang dengan tugas yang memanfaatkan seluruh kemampuan terbaik saya.</Option>
+                    <Option elmRole="PERU">Memilih tugas yang penuh persaingan dan &#34;panas&#34; kompetisinya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="BEBA">Membiarkan orang menyelesaikan tugasnya dengan caranya sendiri.</Option>
+                    <Option elmRole="DISI">Melakukan pengawasan melekat dan memastikan semuanya benar.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NORM">Bersih, rapi dan formal, serta memperhatikan detil.</Option>
+                    <Option elmRole="VARI">Bersih dan rapi, tapi informal dan santai.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Menyimpan informasi dan gagasan berharga untuk diri sendiri.</Option>
+                    <Option elmRole="AFIL">Berbagi dan berdiskusi, supaya orang lain juga bisa memanfaatkannya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MENE">Menganalisa diri sendiri, ketika banyak hal yang tidak beres.</Option>
+                    <Option elmRole="MENG">Menunjukkan kekesalan, karena banyak hal yang tidak beres.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RESP">Menelusuri alasan mengapa orang tidak senang saya dijadikan pemimpin.</Option>
+                    <Option elmRole="ASER">Berprinsip &#39;senang-tidak senang&#39;, saya adalah yang memimpin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="RESI">Menganggap &#34;yang ragu akan kalah&#34; adalah filosofi manajemen yang baik.</Option>
+                    <Option elmRole="KEPA">Lebih suka filosofi manajemen &#34;pikir dulu baik-baik sebelum melompat&#34;.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="BEBA">Mendorong orang berani mengemukakan inisiatif, ide, dan gagasannya sendiri.</Option>
+                    <Option elmRole="DISI">Memastikan tujuan, sasaran, jalur kewenangan, serta prosedur berjalan dengan benar.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NORM">Berprinsip bahwa apapun yang sudah dimulai harus dituntaskan.</Option>
+                    <Option elmRole="VARI">Senang melakukan hal yang penting dan utama saja dari satu rangkaian pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Tidak peduli dengan orang yang &#34;sok tahu&#34; dan &#34;sok berkuasa&#34;.</Option>
+                    <Option elmRole="AFIL">Bersikap ketus terhadap orang &#34;sok tahu&#34; dan &#34;sok berkuasa&#34;.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="MENE">Jadi tempat orang mengadu ketika bermasalah.</Option>
+                    <Option elmRole="MENG">Jad tempat orang mencari solusi permasalahan mereka.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="TERL">Dilihat sebagai orang yang terbuka dan suka berbagi.</Option>
+                    <Option elmRole="FOKU">Dilihat sebagai orang yang terampil dan percaya diri.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PERU">Dikomentari sebagai: &#34;dia agak gila, tapi kami suka&#34;.</Option>
+                    <Option elmRole="STAB">Dikomentari: &#34;kami menghormatinya karena perhatiannya yang tak pernah putus&#34;.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="BEBA">Senang tugas dengan tujuan akhirnya saja, selebihnya biar saya yang mengembangkan.</Option>
+                    <Option elmRole="DISI">Senang tugas yang rinci dan jelas sasaran serta aturan mainnya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="VARI">Mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain.</Option>
+                    <Option elmRole="NORM">Fokus pada suatu hal dan jalankan sesempurna mungkin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="INDE">Bekerja dengan menjadi &#39;orang di belakang layar&#39;.</Option>
+                    <Option elmRole="AFIL">Bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain.</Option>
+                </Select>
+            </TestItem>
+        </Section>
+    </BookBody>
+    <Epilog>
+        <strong>Terimakasih</strong>, Anda telah menyelesaikan seluruh rangkaian test ini.
+    </Epilog>
+</Workbook>

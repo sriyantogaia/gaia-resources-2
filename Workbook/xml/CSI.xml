@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook id="CSI-90262b9F0213">
+    <META>
+        <moduleId value="CSI-90262b9F0213"/>
+        <moduleName value="CSI Default Module"/>
+        <moduleTitle value=""/>
+        <moduleVersion value=""/>
+        <bookType value="simple-teaser"/>
+        <testItems value="72"/>
+        <optionsMode value="likert"/>
+        <optionsNums value="5"/>
+        <optionsSelect value="1"/><!-- Semantik: single -->
+        <evidenceType value="option"/>
+        <releaseDate value="2020-01-19 15:21:52 WIB"/>
+        <teaserTail value=""/>
+        <elmRoles value="PS, CR, EE, SS, PA, WT, SC, SW"/>
+        <likert>
+            <Option seq="1">TIDAK</Option>
+            <Option seq="2">Agak YA</Option>
+            <Option seq="3">YA</Option>
+            <Option seq="4">Sangat Ya</Option>
+            <Option seq="5">Amat sangat YA</Option>
+        </likert>
+    </META>
+    <BookIntro>
+        <!-- HTML Contents -->
+    </BookIntro>
+    <BookBody>
+        <Section>
+            <TestItem seq="1">
+                <Teaser elmRole="PS">Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="2">
+                <Teaser elmRole="CR">Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="3">
+                <Teaser elmRole="EE">Saya mencari cara untuk mengeluarkan kesumpekan saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="4">
+                <Teaser elmRole="SS">Saya mendapat simpati dan pengertian dari seseorang.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="5">
+                <Teaser elmRole="PA">Saya tidur lebih banyak dari biasanya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="6">
+                <Teaser elmRole="WT">Saya berharap masalah itu akan selesai dengan sendirinya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="7">
+                <Teaser elmRole="SC">Saya pikir kalau saya tidak seceroboh itu, mungkin hal ini tidak akan terjadi tidak akan terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="8">
+                <Teaser elmRole="SW">Saya simpan perasaan saya untuk diri sendiri.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="9">
+                <Teaser elmRole="PS">Saya lakukan apapun yang bisa membantu mempercepat selesainya masalah.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="10">
+                <Teaser elmRole="CR">Saya yakinkan diri sendiri, setiap kejadian pasti ada makna tersendiri dibaliknya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="11">
+                <Teaser elmRole="EE">Saya lakukan sesuatu, dalam rangka keluar dari situasi ini.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="12">
+                <Teaser elmRole="SS">Saya menemukan seorang pendengar yang baik.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="13">
+                <Teaser elmRole="PA">Saya bersikap seolah tak terjadi suatu apapun.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="14">
+                <Teaser elmRole="WT">Saya berharap akan terjadi sebuah keajaiban.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="15">
+                <Teaser elmRole="SC">Saya menyadari, saya sendiri yang menyebabkan masalah ini berlarut larut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="16">
+                <Teaser elmRole="SW">Saya lebih banyak menghabiskan waktu sendirian.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="17">
+                <Teaser elmRole="PS">Saya bertahan dan berjuang untuk mencapai solusi yang saya inginkan.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="18">
+                <Teaser elmRole="CR">Saya katakan pada diri saya sendiri beragam hal yang bisa membuat saya merasa lebih baik.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="19">
+                <Teaser elmRole="EE">Saya biarkan emosi saya keluar.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="20">
+                <Teaser elmRole="SS">Saya ceritakan bagaimana perasaan saya pada seseorang.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="21">
+                <Teaser elmRole="PA">Saya coba melupakan semuanya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="22">
+                <Teaser elmRole="WT">Saya berharap untuk tidak terlibat dengan situasi tersebut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="23">
+                <Teaser elmRole="SC">Saya menyalahkan diri sendiri.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="24">
+                <Teaser elmRole="SW">Saya menghindar dari keluarga dan teman teman.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="25">
+                <Teaser elmRole="PS">Saya membuat rencana tindakan dan mennjalankannya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="26">
+                <Teaser elmRole="CR">Saya mencoba realistis, melakukan yang terbaik dari yang masih bisa dilakukan.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="27">
+                <Teaser elmRole="EE">Saya mengumbar perasaan saya, dalam rangka mengurangi stress.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="28">
+                <Teaser elmRole="SS">Saya lebih banyak bergaul dengan orang yang saya sukai.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="29">
+                <Teaser elmRole="PA">Saya tidak mau terpengaruh, saya tidak mau memikirkannya terlalu dalam.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="30">
+                <Teaser elmRole="WT">Saya berharap situasi tersebut akan selesai dengan sendirinya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="31">
+                <Teaser elmRole="SC">Saya mengkritik diri saya sendiri atas semua yang sudah terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="32">
+                <Teaser elmRole="SW">Saya menghindar dari orang orang.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="33">
+                <Teaser elmRole="PS">Saya selesaikan secara personal, berhadapan langsung dengan masalah tersebut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="34">
+                <Teaser elmRole="CR">Saya menganalisa tentang bagaimana dan mengapa semua ini bisa terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="35">
+                <Teaser elmRole="EE">Terkadang saya sengaja mengeluarkan isi hati saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="36">
+                <Teaser elmRole="SS">Saya ngobrol dengan orang yang dekat dengan saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="37">
+                <Teaser elmRole="PA">Saya bersikap bahwa itu masalah orang lain, bukan masalah saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="38">
+                <Teaser elmRole="WT">Saya berharap kejadian itu tidak pernah terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="39">
+                <Teaser elmRole="SC">Karena semua itu salah saya sendiri, saya harus menanggung segala resikonya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="40">
+                <Teaser elmRole="SW">Saya tidak memberitahu orng lain tentang masalah tersebut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="41">
+                <Teaser elmRole="PS">Saya tahu yang harus dilakukan dan berusaha sekuat tenaga menyelesaikannya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="42">
+                <Teaser elmRole="CR">Saya meyakinkan diri saya bahwa semua itu tidak seberat yang dikira.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="43">
+                <Teaser elmRole="EE">Saya mengumbar emosi saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="44">
+                <Teaser elmRole="SS">Saya biarkan teman-teman saya membantu.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="45">
+                <Teaser elmRole="PA">Saya menghindari orang yang menyebabkan masalah terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="46">
+                <Teaser elmRole="WT">Saya berharap dan berandai-andai, seharusnya kejadiannya tidak seperti itu.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="47">
+                <Teaser elmRole="SC">Saya menyadari dan selalu menceramahi diri sendiri, bahwa semua itu karena kesalahan saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="48">
+                <Teaser elmRole="SW">Saya cukup sering meluangkan waktu untuk sendiri.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="49">
+                <Teaser elmRole="PS">Melakukan beragam cara baru dan tidak biasa, karena masalahnya rumit &amp; ruwet.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="50">
+                <Teaser elmRole="CR">Diam dan tenang sejenak, mencoba melihat situasi tersebut dari beragam perspektif.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="51">
+                <Teaser elmRole="EE">Rasanya kepala mau pecah, dan akhirnya emosi saya jebol tidak mampu ditahan.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="52">
+                <Teaser elmRole="SS">Menghubungi teman dan anggota keluarga yang disegani, lalu meminta nasehat mereka.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="53">
+                <Teaser elmRole="PA">Saya mencoba santai, tidak mau terlalu serius memikirkannya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="54">
+                <Teaser elmRole="WT">Saya berharap kalau saya cukup sabar, mestinya masalah akan selesai dengan sendirinya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="55">
+                <Teaser elmRole="SC">Saya menyesali diri sendiri karena membiarkan semua itu terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="56">
+                <Teaser elmRole="SW">Saya simpan perasaan dan pikiran saya untuk diri sendiri.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="57">
+                <Teaser elmRole="PS">Saya bekerja keras menyelesaikannya langsung ditempat masalah tersebut terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="58">
+                <Teaser elmRole="CR">Saya mencoba merinci dan memilah-nya sehingga tidak terasa terlalu berat masalahnya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="59">
+                <Teaser elmRole="EE">Saya mencoba berdialog dengan perasaan saya, lalu mengeluarkannya dengan lega.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="60">
+                <Teaser elmRole="SS">Saya luangkan waktu bercengkerama dengan teman-teman saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="61">
+                <Teaser elmRole="PA">Daripada selalu sedih kalau mengingatnya, saya mencoba untuk tidak memikirkannya lagi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="62">
+                <Teaser elmRole="WT">Saya sering berandai-andai bahwa saya bisa mencegah hal tersebut terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="63">
+                <Teaser elmRole="SC">Semua kesalahan saya, dan saya menerima segala resiko dan penderitaannya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="64">
+                <Teaser elmRole="SW">Saya tidak membiarkan keluarga dan teman-teman tahu apa yang sebenarnya terjadi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="65">
+                <Teaser elmRole="PS">Saya berusaha mati-matian menyelesaikan masalah tersebut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="66">
+                <Teaser elmRole="CR">Saya tak pernah menyerah sampai akhirnya menemukan secercah harapan untuk solusinya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="67">
+                <Teaser elmRole="EE">Sayta benar benar marah dan emosi.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="68">
+                <Teaser elmRole="SS">Saya ngobrol dengan orang yang pernah mengalami situasi yang kurang lebih sama.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="69">
+                <Teaser elmRole="PA">Saya tidak mau memikirkan ataupun malakukan sesuatu berkenaan dengan masalah tersebut.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="70">
+                <Teaser elmRole="WT">Saya berkhayal tentang sesuatu yang fantastik, yang membuat saya merasa lebih baik.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="71">
+                <Teaser elmRole="SC">Saya katakan pada diri saya sendiri betapa bodohnya saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+            <TestItem seq="72">
+                <Teaser elmRole="SW">Saya tidak membiarkan siapapun untuk mengetahui bagaimana perasaan saya.</Teaser>
+                <Select type="likert"/>
+            </TestItem>
+        </Section>
+    </BookBody>
+    <Epilog><strong>Terimakasih</strong>, Anda telah menyelesaikan seluruh rangkaian test ini.</Epilog>
+</Workbook>

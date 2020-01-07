@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook id="GPQ-916910c2A1579">
+    <META>
+        <moduleId value="GPQ-916910c2A1579"/>
+        <moduleName value="GPQ Default Module"/>
+        <moduleTitle value=""/>
+        <moduleVersion value=""/>
+        <bookType value="simple"/>
+        <testItems value="120"/>
+        <optionsMode value="statement"/>
+        <optionsNums value="2"/>
+        <optionsSelect value="1"/><!-- Semantik: single -->
+        <evidenceType value="option"/>
+        <releaseDate value="2020-01-19 15:21:52 WIB"/>
+        <teaserTail value=""/>
+        <elmRoles value="AC, AD, AT, CB, CL, CM, CR, CT, NT, OR, PL, PS, SA, SC, SD, ST"/>
+    </META>
+    <BookIntro>
+        <!-- HTML Contents -->
+    </BookIntro>
+    <BookBody>
+        <Section>
+            <TestItem seq="1">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Membuat kesimpulan dari beragam situasi.</Option>
+                    <Option elmRole="ST">Mendiskusikan strategi jangka panjang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="2">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Menganalisa beragam hal sampai detail.</Option>
+                    <Option elmRole="OR">Mengelola kelebihan dan kekurangan sumberdaya saat bekerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="3">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Mendiskusikan ide-ide baru.</Option>
+                    <Option elmRole="SA">Mencermati kondisi emosi orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="4">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Menyiapkan rencana detail termasuk resiko kegagalannya.</Option>
+                    <Option elmRole="NT">Membangun jaringan kerja dengan beragam pihak.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="5">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Memastikan tidak ada penyimpangan dalam pekerjaan.</Option>
+                    <Option elmRole="PS">Membuat orang lain mendukung pendapat pribadi yang disampaikan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="6">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Saling bantu membantu dalam kelompok kerja.</Option>
+                    <Option elmRole="AD">Menyesuaikan pola kerja sesuai dengan kondisi yang berubah-ubah.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="7">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Menyampaikan ide baru di hadapan kelompok kerja.</Option>
+                    <Option elmRole="SD">Melakukan beragam kegiatan untuk mengatasi kekurangan diri.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="8">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Menahan diri untuk tidak terbawa emosi.</Option>
+                    <Option elmRole="AC">Bekerja dalam suasana yang kompetitif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="9">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Memproyeksikan keadaan sekarang ke masa depan.</Option>
+                    <Option elmRole="OR">Memastikan sumberdaya teralokasi secara efektif dan efisien.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="10">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Menelaah hal-hal yang bersifat konseptual.</Option>
+                    <Option elmRole="SA">Memahami sudut pandang orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="11">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Mendalami suatu topik serinci mungkin.</Option>
+                    <Option elmRole="NT">Membangun kedekatan dan keakraban kelompok kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="12">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Mengembangkan metode baru dalam rangka efisiensi kerja.</Option>
+                    <Option elmRole="PS">Membuat orang lain mau menerima gagasan pribadi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="13">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Merencanakan langkah kerja sesuai dengan waktu dan sumberdaya.</Option>
+                    <Option elmRole="AD">Mencari cara terbaik menghadapi perubahan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="14">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Mengawasi kesesuaian pelaksanaan dengan rencana kerja.</Option>
+                    <Option elmRole="SD">Mencari kesempatan untuk mengembangkan diri.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="15">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Mendorong orang agar mampu berkontribusi maksimal di tim kerjanya.</Option>
+                    <Option elmRole="SC">Tetap tenang di saat-saat yang menegangkan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="16">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Menyampaikan pendapat ke kelompok kerja yang baru.</Option>
+                    <Option elmRole="AC">Memiliki dorongan kuat untuk mencapai tujuan</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="17">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Mengorganisir pelaksanaan beragam proyek supaya tidak tumpang tindih.</Option>
+                    <Option elmRole="SA">Menangkap situasi emosi orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="18">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Mengantisipasi kendala yang akan muncul di masa mendatang.</Option>
+                    <Option elmRole="NT">Mengembangkan jejaring/hubungan sosial seluas mungkin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="19">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Menyimpulkan hasil sebuah proses diskusi.</Option>
+                    <Option elmRole="PS">Mempengaruhi orang lain untuk menerima pendapat pribadi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="20">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Mengerjakan hal-hal detail.</Option>
+                    <Option elmRole="AD">Menyesuaikan diri dengan beragam hal di lingkungan baru.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="21">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Mempraktekkan cara yang baru pada pekerjaan yang rutin.</Option>
+                    <Option elmRole="SD">Menindaklanjuti umpan balik mengenai diri saya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="22">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Mengembangkan target kerja menjadi langkah kerja yang rinci.</Option>
+                    <Option elmRole="SC">Tetap berpikir jernih ketika berada di bawah tekanan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="23">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Mengevaluasi pelaksanaan setiap rencana kerja.</Option>
+                    <Option elmRole="CM">Menyampaikan pendapat secara terbuka.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="24">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Membangun terciptanya semangat kerjasama pada suatu tim.</Option>
+                    <Option elmRole="AC">Menetapkan sasaran yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="25">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Mengenali kondisi emosi orang lain.</Option>
+                    <Option elmRole="NT">Memupuk dan mengelola jejaring/hubungan sosial yang erat.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="26">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Memastikan kesesuaian alokasi sumberdaya dengan prioritas kerja.</Option>
+                    <Option elmRole="PS">Bernegosiasi dalam rangka pendapat pribadi dapat diterima.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="27">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Membuat simulasi jangka panjang.</Option>
+                    <Option elmRole="AD">Menyesuaikan perilaku dengan tuntutan perubahan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="28">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Mengenalkan wacana baru untuk suatu kegiatan yang rutin.</Option>
+                    <Option elmRole="SD">Meningkatkan kemampuan diri secara berkesinambungan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="29">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Mengurai masalah hingga ke akar permasalahan.</Option>
+                    <Option elmRole="SC">Tetap tenang dalam menghadapi tekanan emosi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="30">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Mengembangkan pendekatan baru untuk hal yang sudah rutin.</Option>
+                    <Option elmRole="CM">Bertukar pikiran secara terbuka dengan orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="31">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Merencanakan pekerjaaan secara teratur dan rapi dalam situasi apapun.</Option>
+                    <Option elmRole="CB">Berpartisipasi dalam kegiatan kelompok.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="32">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Mengidentifikasi penyimpangan yang terjadi pada pekerjaan.</Option>
+                    <Option elmRole="AC">Bersemangat menghadapi pekerjaan yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="33">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Membina dan mengembangkan hubungan yang saling menguntungkan.</Option>
+                    <Option elmRole="PS">Memakai beragam pendekatan supaya pendapat pribadi diterima.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="34">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Memperhatikan pengaruh emosi pada kinerja.</Option>
+                    <Option elmRole="AD">Mencermati perubahan dan menelaah kendala-kendalanya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="35">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Mengarahkan sumber daya untuk mencapai target.</Option>
+                    <Option elmRole="SD">Mencari cara-cara pengembangan diri yang efektif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="36">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Menganalisa kemungkinan yang bisa terjadi di masa depan.</Option>
+                    <Option elmRole="SC">Mudah bangkit dari kekecewaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="37">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Membandingkan teori dengan kenyataan.</Option>
+                    <Option elmRole="CM">Saya mudah mengekspresikan gagasan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="38">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Menganalisa situasi hingga akar permasalahan.</Option>
+                    <Option elmRole="CB">Berkomitmen untuk mendukung keputusan kelompok.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="39">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Melakukan pekerjaan yang sama dengan cara yang berbeda.</Option>
+                    <Option elmRole="CL">Memantau kesalahan pelaksanaan pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="40">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Memilah tujuan menjadi langkah-langkah kerja.</Option>
+                    <Option elmRole="AC">Mengerjakan segala sesuatunya lebih baik dari yang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="41">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Membuat orang lain mendukung pendapat pribadi yang disampaikan.</Option>
+                    <Option elmRole="AD">Menyesuaikan pola kerja sesuai dengan kondisi yang berubah-ubah.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="42">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Membangun jaringan kerja dengan beragam pihak.</Option>
+                    <Option elmRole="SD">Melakukan beragam kegiatan untuk mengatasi kekurangan diri.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="43">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Mencermati kondisi emosi orang lain.</Option>
+                    <Option elmRole="SC">Menahan diri untuk tidak terbawa emosi</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="44">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Mengelola kelebihan dan kekurangan sumberdaya saat bekerja.</Option>
+                    <Option elmRole="CM">Menyampaikan ide baru di hadapan kelompok kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="45">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Mendiskusikan strategi jangka panjang.</Option>
+                    <Option elmRole="CB">Saling bantu membantu dalam kelompok kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="46">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Membuat kesimpulan dari beragam informasi.</Option>
+                    <Option elmRole="CL">Memastikan tidak ada penyimpangan dalam pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="47">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Menganalisa beragam hal sampai detail.</Option>
+                    <Option elmRole="PL">Menyiapkan rencana detail termasuk resiko kegagalannya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="48">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Mendiskusikan ide-ide baru.</Option>
+                    <Option elmRole="AC">Bekerja dalam suasana yang kompetitif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="49">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Mencari cara terbaik menghadapi perubahan.</Option>
+                    <Option elmRole="SD">Mencari kesempatan untuk mengembangkan diri.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="50">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Membuat orang lain mau menerima gagasan pribadi.</Option>
+                    <Option elmRole="SC">Tetap tenang di saat-saat yang menegangkan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="51">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Membangun kedekatan dan keakraban kelompok kerja.</Option>
+                    <Option elmRole="CM">Menyampaikan pendapat ke kelompok kerja yang baru.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="52">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Memahami sudut pandang orang lain.</Option>
+                    <Option elmRole="CB">Mendorong orang agar mampu berkontribusi maksimal di tim kerjanya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="53">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Memastikan sumberdaya teralokasi secara efektif dan efisien.</Option>
+                    <Option elmRole="CL">Mengawasi kesesuaian pelaksanaan dengan rencana kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="54">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Memproyeksikan keadaan sekarang ke masa depan.</Option>
+                    <Option elmRole="PL">Merencanakan langkah kerja sesuai dengan waktu dan sumberdaya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="55">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Menelaah hal-hal yang bersifat konseptual.</Option>
+                    <Option elmRole="CR">Mengembangkan metode baru dalam rangka efisiensi kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="56">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Mendalami suatu topik serinci mungkin.</Option>
+                    <Option elmRole="AC">Memiliki dorongan kuat untuk mencapai tujuan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="57">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Menindaklanjuti umpan balik mengenai diri saya.</Option>
+                    <Option elmRole="SC">Tetap berpikir jernih ketika berada di bawah tekanan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="58">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Menyesuaikan diri dengan beragam hal di lingkungan baru.</Option>
+                    <Option elmRole="CM">Menyampaikan pendapat secara terbuka.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="59">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Mempengaruhi orang lain untuk menerima pendapat pribadi.</Option>
+                    <Option elmRole="CB">Membangun terciptanya semangat kerjasama pada suatu tim.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="60">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Mengembangkan jejaring/hubungan sosial seluas mungkin.</Option>
+                    <Option elmRole="CL">Mengevaluasi pelaksanaan setiap rencana kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="61">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Menangkap situasi emosi orang lain.</Option>
+                    <Option elmRole="PL">Mengembangkan target kerja menjadi langkah kerja yang rinci.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="62">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Mengorganisir pelaksanaan beragam proyek supaya tidak tumpang tindih.</Option>
+                    <Option elmRole="CR">Mempraktekkan cara yang baru pada pekerjaan yang rutin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="63">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Mengantisipasi kendala yang akan muncul di masa mendatang.</Option>
+                    <Option elmRole="AT">Mengerjakan hal-hal detail.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="64">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CT">Menyimpulkan hasil sebuah proses diskusi.</Option>
+                    <Option elmRole="AC">Menetapkan sasaran yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="65">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Tetap tenang dalam menghadapi tekanan emosi.</Option>
+                    <Option elmRole="CM">Bertukar pikiran secara terbuka dengan orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="66">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Meningkatkan kemampuan diri secara berkesinambungan.</Option>
+                    <Option elmRole="CB">Berpartisipasi dalam kegiatan kelompok.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="67">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Menyesuaikan perilaku dengan tuntutan perubahan.</Option>
+                    <Option elmRole="CL">Mengidentifikasi penyimpangan yang terjadi pada pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="68">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Bernegosiasi dalam rangka pendapat pribadi dapat diterima.</Option>
+                    <Option elmRole="PL">Merencanakan pekerjaaan secara teratur dan rapi dalam situasi apapun.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="69">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Memupuk dan mengelola jejaring/hubungan sosial yang erat.</Option>
+                    <Option elmRole="CR">Mengembangkan pendekatan baru untuk hal yang sudah rutin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="70">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Mengenali kondisi emosi orang lain.</Option>
+                    <Option elmRole="AT">Mengurai masalah hingga ke akar permasalahan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="71">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Memastikan kesesuaian alokasi sumberdaya dengan prioritas kerja.</Option>
+                    <Option elmRole="CT">Mengenalkan wacana baru untuk suatu kegiatan yang rutin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="72">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="ST">Membuat simulasi jangka panjang.</Option>
+                    <Option elmRole="AC">Bersemangat menghadapi pekerjaan yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="73">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Saya mudah mengekspresikan gagasan.</Option>
+                    <Option elmRole="CB">Berkomitmen untuk mendukung keputusan kelompok.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="74">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Mudah bangkit dari kekecewaan.</Option>
+                    <Option elmRole="CL">Memantau kesalahan pelaksanaan pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="75">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Mencari cara-cara pengembangan diri yang efektif.</Option>
+                    <Option elmRole="PL">Memilah tujuan menjadi langkah-langkah kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="76">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Mencermati perubahan dan menelaah kendala-kendalanya.</Option>
+                    <Option elmRole="CR">Melakukan pekerjaan yang sama dengan cara yang berbeda.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="77">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Memakai beragam pendekatan supaya pendapat pribadi diterima.</Option>
+                    <Option elmRole="AT">Menganalisa situasi hingga akar permasalahan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="78">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Membina dan mengembangkan hubungan yang saling menguntungkan.</Option>
+                    <Option elmRole="CT">Membandingkan teori dengan kenyataan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="79">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Memperhatikan pengaruh emosi pada kinerja.</Option>
+                    <Option elmRole="ST">Menganalisa kemungkinan yang bisa terjadi di masa depan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="80">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="OR">Mengarahkan sumber daya untuk mencapai target.</Option>
+                    <Option elmRole="AC">Mengerjakan segala sesuatunya lebih baik dari yang lain..</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="81">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Saling bantu membantu dalam kelompok kerja.</Option>
+                    <Option elmRole="CL">Memastikan tidak ada penyimpangan dalam pekerjaan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="82">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Menyampaikan ide baru di hadapan kelompok kerja.</Option>
+                    <Option elmRole="PL">Menyiapkan rencana detail termasuk resiko kegagalannya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="83">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Menahan diri untuk tidak terbawa emosi.</Option>
+                    <Option elmRole="CR">Mendiskusikan ide-ide baru.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="84">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Melakukan beragam kegiatan untuk mengatasi kekurangan diri.</Option>
+                    <Option elmRole="AT">Menganalisa beragam hal sampai detail.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="85">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Menyesuaikan pola kerja sesuai dengan kondisi yang berubah-ubah</Option>
+                    <Option elmRole="CT">Membuat kesimpulan dari beragam informasi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="86">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Membuat orang lain mendukung pendapat pribadi yang disampaikan.</Option>
+                    <Option elmRole="ST">Mendiskusikan strategi jangka panjang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="87">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Membangun jaringan kerja dengan beragam pihak.</Option>
+                    <Option elmRole="OR">Mengelola kelebihan dan kekurangan sumberdaya saat bekerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="88">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SA">Mencermati kondisi emosi orang lain.</Option>
+                    <Option elmRole="AC">Bekerja dalam suasana yang kompetitif.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="89">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Mengawasi kesesuaian pelaksanaan dengan rencana kerja.</Option>
+                    <Option elmRole="PL">Merencanakan langkah kerja sesuai dengan waktu dan sumberdaya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="90">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Mendorong orang agar mampu berkontribusi maksimal di tim kerjanya.</Option>
+                    <Option elmRole="CR">Mengembangkan metode baru dalam rangka efisiensi kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="91">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Menyampaikan pendapat ke kelompok kerja yang baru.</Option>
+                    <Option elmRole="AT">Mendalami suatu topik serinci mungkin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="92">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Tetap tenang di saat-saat yang menegangkan.</Option>
+                    <Option elmRole="CT">Menelaah hal-hal yang bersifat konseptual.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="93">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Mencari kesempatan untuk mengembangkan diri.</Option>
+                    <Option elmRole="ST">Memproyeksikan keadaan sekarang ke masa depan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="94">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Mencari cara terbaik menghadapi perubahan.</Option>
+                    <Option elmRole="OR">Memastikan sumberdaya teralokasi secara efektif dan efisien.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="95">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Membuat orang lain mau menerima gagasan pribadi.</Option>
+                    <Option elmRole="SA">Memahami sudut pandang orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="96">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="NT">Membangun kedekatan dan keakraban kelompok kerja.</Option>
+                    <Option elmRole="AC">Memiliki dorongan kuat untuk mencapai tujuan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="97">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Mengembangkan target kerja menjadi langkah kerja yang rinci.</Option>
+                    <Option elmRole="CR">Mempraktekkan cara yang baru pada pekerjaan yang rutin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="98">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Mengevaluasi pelaksanaan setiap rencana kerja.</Option>
+                    <Option elmRole="AT">Mengerjakan hal-hal detail.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="99">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Membangun terciptanya semangat kerjasama pada suatu tim.</Option>
+                    <Option elmRole="CT">Menyimpulkan hasil sebuah proses diskusi.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="100">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Menyampaikan pendapat secara terbuka.</Option>
+                    <Option elmRole="ST">Mengantisipasi kendala yang akan muncul di masa mendatang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="101">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Tetap berpikir jernih ketika berada di bawah tekanan.</Option>
+                    <Option elmRole="OR">Mengorganisir pelaksanaan beragam proyek supaya tidak tumpang tindih.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="102">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Menindaklanjuti umpan balik mengenai diri saya.</Option>
+                    <Option elmRole="SA">Menangkap situasi emosi orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="103">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Menyesuaikan diri dengan beragam hal di lingkungan baru.</Option>
+                    <Option elmRole="NT">Mengembangkan jejaring/hubungan sosial seluas mungkin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="104">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PS">Mempengaruhi orang lain untuk menerima pendapat pribadi.</Option>
+                    <Option elmRole="AC">Menetapkan sasaran yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="105">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Mengembangkan pendekatan baru untuk hal yang sudah rutin.</Option>
+                    <Option elmRole="AT">Mengurai masalah hingga ke akar permasalahan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="106">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Merencanakan pekerjaaan secara teratur dan rapi dalam situasi apapun.</Option>
+                    <Option elmRole="CT">Mengenalkan wacana baru untuk suatu kegiatan yang rutin.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="107">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Mengidentifikasi penyimpangan yang terjadi pada pekerjaan.</Option>
+                    <Option elmRole="ST">Membuat simulasi jangka panjang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="108">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Berpartisipasi dalam kegiatan kelompok.</Option>
+                    <Option elmRole="OR">Memastikan kesesuaian alokasi sumberdaya dengan prioritas kerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="109">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Bertukar pikiran secara terbuka dengan orang lain.</Option>
+                    <Option elmRole="SA">Mengenali kondisi emosi orang lain.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="110">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Tetap tenang dalam menghadapi tekanan emosi.</Option>
+                    <Option elmRole="NT">Memupuk dan mengelola jejaring/hubungan sosial yang erat.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="111">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Meningkatkan kemampuan diri secara berkesinambungan.</Option>
+                    <Option elmRole="PS">Bernegosiasi dalam rangka pendapat pribadi dapat diterima.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="112">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AD">Menyesuaikan perilaku dengan tuntutan perubahan.</Option>
+                    <Option elmRole="AC">Bersemangat menghadapi pekerjaan yang menantang.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="113">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="AT">Menganalisa situasi hingga akar permasalahan.</Option>
+                    <Option elmRole="CT">Membandingkan teori dengan kenyataan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="114">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CR">Melakukan pekerjaan yang sama dengan cara yang berbeda.</Option>
+                    <Option elmRole="ST">Menganalisa kemungkinan yang bisa terjadi di masa depan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="115">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="PL">Memilah tujuan menjadi langkah-langkah kerja.</Option>
+                    <Option elmRole="OR">Mengarahkan sumber daya untuk mencapai target.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="116">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CL">Memantau kesalahan pelaksanaan pekerjaan.</Option>
+                    <Option elmRole="SA">Memperhatikan pengaruh emosi pada kinerja.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="117">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CB">Berkomitmen untuk mendukung keputusan kelompok.</Option>
+                    <Option elmRole="NT">Membina dan mengembangkan hubungan yang saling menguntungkan.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="118">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="CM">Mudah mengekspresikan gagasan.</Option>
+                    <Option elmRole="PS">Memakai beragam pendekatan supaya pendapat pribadi diterima.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="119">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SC">Mudah bangkit dari kekecewaan.</Option>
+                    <Option elmRole="AD">Mencermati perubahan dan menelaah kendala-kendalanya.</Option>
+                </Select>
+            </TestItem>
+            <TestItem seq="120">
+                <Teaser/>
+                <Select>
+                    <Option elmRole="SD">Mencari cara-cara pengembangan diri yang efektif.</Option>
+                    <Option elmRole="AC">Mengerjakan segala sesuatunya lebih baik dari yang lain.</Option>
+                </Select>
+            </TestItem>
+        </Section>
+    </BookBody>
+    <Epilog>
+        <strong>Terimakasih</strong>, Anda telah menyelesaikan seluruh rangkaian test ini.
+    </Epilog>
+</Workbook>
